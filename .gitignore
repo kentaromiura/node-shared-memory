@@ -1,0 +1,3 @@
+node_modules/
+build/
+cmake-build-debug/

@@ -1,0 +1,16 @@
+{
+  "name": "node_shared_memory",
+  "version": "0.0.1",
+  "description": "Node.js Addons for using shared memory",
+  "main": "hello.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.0.0"
+  },
+  "scripts": {
+    "test": "cd TEST; node test-shm"
+  },
+  "gypfile": true,
+  "license": "MIT"
+}

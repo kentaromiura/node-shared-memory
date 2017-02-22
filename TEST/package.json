@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "worker-farm": "^1.3.1"
+  }
+}
